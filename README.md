@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/b4python/badge/?version=latest)](https://b4python.readthedocs.io/en/latest/?badge=latest)
+
 # pyb4model Python Package
 
 ## Summary
